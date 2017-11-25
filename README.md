@@ -3,4 +3,6 @@ Exercise on creating a Courses page that displays all courses
 
 Create a page that looks like this, andmake our application display the page
 
+<img src="/courses_index.png" />
+
 
