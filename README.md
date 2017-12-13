@@ -6,3 +6,4 @@ Create a page that looks like this, andmake our application display the page
 <img src="/courses_list.png" />
 
 
+_<div align="right">&copy; clbo@kea.dk</div>_
